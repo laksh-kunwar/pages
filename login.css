@@ -1,0 +1,113 @@
+.{
+margin: 0;
+padding:0;
+
+
+}
+
+
+.main{
+
+    background:linear-gradient(to top,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(pic/pexels.jpg);
+     background-position:center;
+    background-size: cover;
+    height:109vh;
+
+
+
+
+}
+
+
+.navbar{
+
+width:1200px;
+height:75px;
+margin:auto;
+
+
+} 
+
+
+.icon{
+width:200px;
+float:left;
+height:70px;
+
+}
+
+
+.logo{
+color:#ff7200;
+font-size:35px;
+font-family:arial;
+padding-left:20px;
+float:left;
+padding-top:10px;
+}
+
+.menu{
+    
+   color: #ff7200;;
+font-size:20px;
+
+
+
+
+}
+
+
+.b-button{
+position:relative;
+top:460px;
+left:740px;
+
+    cursor: pointer;
+}
+
+
+.f-button{
+position:relative;
+top:460px;
+left:750px;
+
+}
+
+.fi-name{
+position:relative;
+top:380px;
+left:250px;
+
+}
+
+.f-name{
+    padding:4px 4px;
+color:#776659;
+border-radius:6px;
+}
+.l-name{
+    padding:4px 4px;
+color:#776659;
+border-radius:6px;
+}
+
+.la-name{
+position:relative;
+top:400px;
+left:250px;
+
+
+}
+.connection{
+position:relative;
+top:415px;
+left:270px;
+
+}
+
+.connection input{
+ padding:4px 4px;
+color:#776659;
+border-radius:6px;
+
+}
